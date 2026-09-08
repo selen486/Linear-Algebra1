@@ -1,5 +1,5 @@
-#include <cstdio>
-#include <cmath>
+#include <stdio.h>
+#include <math.h>
 #define EPSILON 1e-9
 
 int main() {
